@@ -1,0 +1,17 @@
+h1, ul li {
+	color: rgb(55, 0, 255);
+    display: inline;
+	font-family: roboto;
+}
+
+.label{
+    color: rgb(36, 47, 58);
+    font-size: 120%;
+}
+.secStyle{
+    /*color: rgb(36, 47, 58); */
+    background-color: rgb(71, 255, 209);
+    color: white;
+    font-size: 100%;  
+    text-align: right;         
+}
